@@ -18,3 +18,4 @@ Notes and usage details for self-hosted-ai-stack.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
