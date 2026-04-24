@@ -31,3 +31,4 @@ echo "self-hosted-ai-stack"
 # avoid re-reading the config on every call
 # clarify the control flow
 # handle the edge case from the last release
+# clarify the control flow
